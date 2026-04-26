@@ -47,4 +47,4 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zintradev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&area=true&hide_border=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Zintradev&theme=tokyo-night&area=true&hide_border=true)
