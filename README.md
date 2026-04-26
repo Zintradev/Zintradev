@@ -1,4 +1,4 @@
-![Zintra's Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7dcfff,7aa2f7,3d59a1&height=200&section=header&text=Hi,%20I'm%20Zintra&fontSize=70&animation=fadeIn&fontColor=ffffff)
+![Zintra's Banner](https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=200&section=header&text=Hi,%20I'm%20Zintra&fontSize=70&animation=fadeIn&fontColor=7aa2f7)
 
 > **Cybersecurity Specialist & AI Enthusiast.** <br />
 > Focused on securing systems, exploring machine learning, and building robust infrastructure. Always learning and breaking things to understand how they work. Welcome to my profile! 👾
